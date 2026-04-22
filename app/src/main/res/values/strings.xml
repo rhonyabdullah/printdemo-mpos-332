@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">printdemo</string>
+    <string name="hint_print_text">Input text to print</string>
+    <string name="btn_print">Print</string>
+    <string name="btn_print_image">Print Image</string>
+    <string name="btn_print_qr">Print QR Code</string>
+    <string name="btn_print_barcode">Print Barcode</string>
+    <string name="btn_bold">Bold</string>
+    <string name="btn_font_small">Font Size (Small)</string>
+    <string name="btn_font_large">Font Size (Large)</string>
+    <string name="btn_align_left">Align Left</string>
+    <string name="btn_align_center">Align Center</string>
+    <string name="btn_align_right">Align Right</string>
+    <string name="btn_new_line">New Line</string>
+    <string name="btn_print_table">Print Table</string>
+</resources>
