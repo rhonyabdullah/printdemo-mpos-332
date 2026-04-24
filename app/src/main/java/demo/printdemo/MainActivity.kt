@@ -93,7 +93,7 @@ fun PrintScreen(printer: SrPrinter) {
 
         Button(
             onClick = {
-                // runCatching { printer.print128BarCode("12345678901234567890123", 3, 80, 2) }
+                 runCatching { printer.print128BarCode("12345678901234567890123", 3, 80, 2) }
             },
             modifier = Modifier.fillMaxWidth()
         ) {
